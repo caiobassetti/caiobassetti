@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caio Bassetti</h1>
-<h3 align="center">A Junior Data Scientist, former Film Producer. I have an endless curiosity about random stuff</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caiobassetti" alt="caiobassetti" /></a> </p>
+<h3 align="center">A Junior Data Scientist, former Film Producer. I have an endless curiosity about eclectic stuff</h3>
 
 - 🔭 I’m currently working on [Cubbo](https://br.cubbo.com/)
 

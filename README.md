@@ -1,6 +1,3 @@
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi 👋, I'm Caio Bassetti&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
@@ -48,8 +45,15 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img class="w-full" alt="snakegame" src="https://profile-readme-generator.com/assets/snake.svg">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiobassetti&show_icons=true&locale=en&layout=compact" alt="caiobassetti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiobassetti&show_icons=true&locale=en" alt="caiobassetti" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiobassetti&show_icons=true&locale=en" alt="caiobassetti" /></p>
+
+
+
+
+
+
+###

@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Caio Bassetti</h1>
-<h3 align="center">A Junior Data Scientist, former Film Producer. I have an endless curiosity about eclectic stuff</h3>
+<h3 align="center">Data & Automation Engineer pivoting from 15 years of large-scale media operations (Netflix, Fox, Record TV) into data engineering, ML systems, and AI compliance tooling.
 
-- 🔭 I’m currently working on [Cubbo](https://br.cubbo.com/)
+Hands-on with Python, SQL, dbt, Talend, Docker, GCP, AWS, and building Kafka-based streaming pipelines.
 
-- 🌱 I’m currently learning **Decision Science**
+Recent projects:
 
-- 📫 How to reach me **ba7.caio@gmail.com**
+Streaming pipeline demo: Kafka → Postgres → dbt → Streamlit.
+
+QoE Telemetry monitor: simulated video playback metrics → Grafana dashboards.
+
+AI-BOM tool: audit trail for AI model outputs, aligned with upcoming EU AI Act requirements.
+
+Background: architected global post-production workflows (17 editors, 4 countries), automated media pipelines, managed petabyte-scale storage, and delivered Oscar-nominated / Netflix-released films.
+
+I bring the rigor of data/ML engineering with the creativity and operational discipline of media-tech at scale. Currently open to Data Engineer, Media-Tech Engineer, or AI Automation Engineer roles in the Netherlands/EU.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

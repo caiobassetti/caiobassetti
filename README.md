@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20👋,%20I'm%20Caio%20Bassetti&fontColor=000000&animation=fadeIn&type=waving&color=gradient&height=100&theme=tokyonight"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20👋,%20I'm%20Caio%20Bassetti&fontColor=000000&animation=fadeIn&type=waving&color=gradient&height=100&theme=onedark"/>
 </p>
 
 ###
